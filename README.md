@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A collaborative and creative Fullstack developer :robot:</h3>
+<h3 align="center">A collaborative and creative Software Engineer :robot:</h3>
 
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyzmoz" alt="zyzmoz" /></a> </p>
 </br>
 
-- 🔭 I’m currently building awesome things at [KaffaMobile](http://www.kaffamobile.com/)
+---
+
+- 🔭 I’m currently building awesome things at [BairesDev](https://www.bairesdev.com/)
+- 📁 Former [KaffaMobile](http://www.kaffamobile.com/) Full-stack Developer
+
+---
 
 - 🌱 Learning **Elixir** at [RocketSeat](https://rocketseat.com.br/)
 
